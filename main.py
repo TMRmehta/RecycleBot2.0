@@ -131,7 +131,6 @@ def results(filename):
     return render_template('results.html', filename=filename, labels = res)
     
     
-
        
 
 @app.route('/files/<path:filename>')
