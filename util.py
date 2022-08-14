@@ -26,3 +26,5 @@ def and_syntax(alist):
         return alist
     else:
         return
+
+   
